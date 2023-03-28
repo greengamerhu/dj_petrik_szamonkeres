@@ -11,6 +11,8 @@ export default class Tapasztalat extends Component {
             <Row>
                 <Col >
             <div>
+<img src="petrik.jpg" className="float-end" width={"300px"} style={{float :"right", display : "flex"}} alt="" />
+
             <h1>Pro-bono bulik</h1>
         <ul> 
             <li>Csibeavató, 2021. 08. 31.</li>
@@ -25,7 +27,6 @@ export default class Tapasztalat extends Component {
     <li>Ballagás, 2022. 04. 30.</li>
 </ul>
 </div>
-<img src="petrik.jpg" className="float-end" width={"300px"}  alt="" />
 </Col>
 
  </Row>
